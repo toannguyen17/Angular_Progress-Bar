@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Progress-Bar"
+    }
+  },
+  "defaultProject": "Progress-Bar",
+  "cli": {
+    "analytics": false
+  }
 }
